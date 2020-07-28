@@ -6,5 +6,8 @@ for this dog Shit game.
 
 And Also kinda a sorry for all the shit on my end :) 
 
+All Credits are in source. 
+using the BTBD Hook (Maven Hook)
+For now will be changed later
 
 Ticxsy#0001
