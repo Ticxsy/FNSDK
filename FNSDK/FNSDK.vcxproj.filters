@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>Menu\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_dx11.cpp">
+      <Filter>Menu\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>Menu\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Render.cpp">
+      <Filter>Menu\Render</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MinHook">
+      <UniqueIdentifier>{885da5f6-dab2-4e30-a4d0-ba10ac0a0b23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{5c3d3cae-da30-478b-90fc-bc7dca093768}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu\ImGui">
+      <UniqueIdentifier>{ac42123a-1e38-42a2-bb89-b42faeef4b27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu\Render">
+      <UniqueIdentifier>{0fa762c5-b232-4feb-a82a-91e6698f7795}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Extra">
+      <UniqueIdentifier>{924453e4-5938-47a8-8a1f-85663b852744}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="minhook\MinHook.h">
+      <Filter>MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_dx11.h">
+      <Filter>Menu\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>Menu\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_rect_pack.h">
+      <Filter>Menu\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_textedit.h">
+      <Filter>Menu\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\stb_truetype.h">
+      <Filter>Menu\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imconfig.h">
+      <Filter>Menu\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>Menu\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Render.h">
+      <Filter>Menu\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Extra</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
