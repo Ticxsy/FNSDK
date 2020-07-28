@@ -6,8 +6,8 @@ for this dog Shit game.
 
 And Also kinda a sorry for all the shit on my end :) 
 
-All Credits are in source. 
-using the BTBD Hook (Maven Hook)
-For now will be changed later
+[+] Updated Hooks. Should Be UD (Not sure test yourself)
+
+[-] Adding Basic Aimbot and ESP
 
 Ticxsy#0001
