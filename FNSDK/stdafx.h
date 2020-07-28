@@ -17,7 +17,9 @@
 #include "imgui/imgui_impl_dx11.h"
 #include "imgui/imgui_internal.h"
 
+#include "d3d11.h"
 #include "Render.h"
+#include "InputHook.h"
 
 ImGuiWindow& BeginScene();
 VOID EndScene(ImGuiWindow& window);

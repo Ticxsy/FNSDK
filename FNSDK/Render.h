@@ -1,10 +1,8 @@
 #pragma once
 
-namespace Render
+class Menu
 {
-	namespace Menu
-	{
-		bool Initial();
-	}
-	static bool DrawMenu = true;
-}
+public:
+	bool IsOpen = true;
+	void Render();
+};
