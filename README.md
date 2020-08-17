@@ -10,4 +10,4 @@ And Also kinda a sorry for all the shit on my end :)
 
 [-] Adding Basic Aimbot and ESP
 
-iOptic#9305
+ticxsy#9305
