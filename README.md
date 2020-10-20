@@ -11,3 +11,5 @@ And Also kinda a sorry for all the shit on my end :)
 [-] Adding Basic Aimbot and ESP
 
 ticxsy#9305
+
+its pasted btw
